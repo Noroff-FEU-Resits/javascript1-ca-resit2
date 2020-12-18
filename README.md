@@ -65,7 +65,7 @@ When the form on this page is submitted, write code to validate the input. If an
 
 ## Note
 
-- Your code must be properly formatted and your function and variables must be appropriately named.
+- Your code must be properly formatted and your functions and variables must be appropriately named.
 - Make sure there are no errors in the console.
 
 ## Submission
