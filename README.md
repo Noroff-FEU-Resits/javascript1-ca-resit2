@@ -16,7 +16,7 @@ Both API calls should include a loading indicator.
 Make a fetch call to the following URL. 
 
 ```js
-https://t9jt3myad3.execute-api.eu-west-2.amazonaws.com/api/old-games
+https://api.noroff.dev/api/v1/old-games
 ```
 
 This endpoint will return an array of results. Loop through the results and create HTML for each result.
@@ -33,7 +33,7 @@ Display a loading indicator while the API call is in progress, even if it is jus
 Make a fetch call to the following URL. 
 
 ```js
-https://t9jt3myad3.execute-api.eu-west-2.amazonaws.com/api/old-games/fuzion-frenzy
+https://api.noroff.dev/api/v1/old-games/1
 ```
 
 This endpoint will return a single result.
